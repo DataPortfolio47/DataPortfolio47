@@ -19,11 +19,11 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Visita mi sitio web de portafolio completo](https://your-username.github.io/)
       
-## 🛠️ Technical Skillset
+## 🛠️ Habilidades Técnicas
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
 
-#### Data Analysis & Visualization
+#### Análisis y Visualización de Datos
 <p>
   <!-- 💡 Go to Shields.io to create your own badges -->
   <img src="https://img.shields.io/badge/SQL-Advanced-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
