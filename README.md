@@ -1,4 +1,4 @@
-## Hola, soy José Miguel Contreras. 👋
+## Hola, soy José Miguel Contreras Alcántara. 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
@@ -13,7 +13,7 @@
   <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
-## 🚀 About Me 
+## 🚀 Sobre Mí 
 Ingeniero en Sistemas y Computación con experiencia práctica en el análisis de datos mediante Excel avanzado, SQL y Power BI. He desarrollado proyectos de visualización y modelado de datos aplicando limpieza, transformación y análisis de información para generar insights claros. Altamente apasionado por la tecnología y el aprendizaje continuo. Busco iniciar mi trayectoria profesional en roles de soporte de BI, analista de reportes, analista de calidad de datos, o áreas afines.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
