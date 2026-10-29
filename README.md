@@ -1,4 +1,4 @@
-## Hi there, I'm [Your Name] 👋
+## Hola, soy José Miguel Contreras. 👋
 
 <div align="center">
   <!--  You can customize the typing text in the "lines=" section of the URL below -->
