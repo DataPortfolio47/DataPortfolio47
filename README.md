@@ -8,7 +8,7 @@
 
 
 ## 🚀 Sobre Mí 
-Ingeniero en Sistemas y Computación con experiencia práctica en el análisis de datos mediante Excel avanzado, SQL y Power BI. He desarrollado proyectos de visualización y modelado de datos aplicando limpieza, transformación y análisis de información para generar insights claros. Altamente apasionado por la tecnología y el aprendizaje continuo. Busco iniciar mi trayectoria profesional en roles de soporte de BI, analista de reportes, analista de calidad de datos, o áreas afines.
+Ingeniero en Sistemas y Computación con experiencia práctica en el análisis de datos mediante Excel, SQL y Power BI. He desarrollado proyectos de visualización y modelado de datos aplicando limpieza, transformación y análisis de información para generar insights claros. Altamente apasionado por la tecnología y el aprendizaje continuo. Busco iniciar mi trayectoria profesional en roles de soporte de BI, analista de reportes, analista de calidad de datos, o áreas afines.
 
      
 ## 🧠 Habilidades Técnicas
