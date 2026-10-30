@@ -16,9 +16,7 @@
 ## 🚀 Sobre Mí 
 Ingeniero en Sistemas y Computación con experiencia práctica en el análisis de datos mediante Excel avanzado, SQL y Power BI. He desarrollado proyectos de visualización y modelado de datos aplicando limpieza, transformación y análisis de información para generar insights claros. Altamente apasionado por la tecnología y el aprendizaje continuo. Busco iniciar mi trayectoria profesional en roles de soporte de BI, analista de reportes, analista de calidad de datos, o áreas afines.
 
-<!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Visita mi sitio web de portafolio completo](https://your-username.github.io/)
-      
+     
 ## 🛠️ Habilidades Técnicas
 
 <!-- This section uses Shields.io badges. You can customize them or create your own!-->
@@ -31,3 +29,5 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
 <p><img src="https://img.shields.io/badge/Power%20BI-Intermedio-F2C811?style=flat&logo=powerbi&logoColor=black" alt="Power BI Skill Badge"><p>
 
 <p><img src="https://img.shields.io/badge/Excel-Avanzado-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"><p>
+
+### [🏆 Visita mi sitio web de portafolio completo](https://your-username.github.io/)
