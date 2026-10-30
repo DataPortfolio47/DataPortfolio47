@@ -19,7 +19,8 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
      
 ## 🛠️ Habilidades Técnicas
 
-<!-- This section uses Shields.io badges. You can customize them or create your own!-->
+<p><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/113bb065-d1b4-4281-973b-71815eae1992" />Limpieza y depuración de datos
+<p>
 
 #### Análisis y Visualización de Datos
 <p>
