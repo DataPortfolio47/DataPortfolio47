@@ -19,25 +19,11 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
      
 ## 🛠️ Habilidades Técnicas
 
-### Análisis de Datos
-
-- Python (pandas, numpy, matplotlib, sklearn)
-- SQL
+- Limpieza y depuración de datos
+- ETL (extracción, transformación y carga de datos)
 - Limpieza y transformación de datos
-
-### Business Intelligence
-
-- Tableau
+- Modelado de datos
 - Visualización de datos
-- Storytelling con datos
-
-### Negocio
-
-- Análisis de KPIs
-- Rentabilidad (LTV, CAC)
-- Enfoque financiero (background contable)
-
-
 
 
 #### Análisis y Visualización de Datos
