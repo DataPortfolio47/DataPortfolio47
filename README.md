@@ -1,11 +1,5 @@
 ## Hola, soy José Miguel Contreras Alcántara. 👋
 
-<div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Analyst+%7C+Business+Intelligence;Turning+Data+into+Actionable+Insights;[Your+Specialty+Here];[Your+Experience+or+Tagline]" alt="Typing SVG" />
-</div>
-
 
 ## 🚀 Sobre Mí 
 Ingeniero en Sistemas y Computación con experiencia práctica en el análisis de datos mediante Excel, SQL y Power BI. He desarrollado proyectos de visualización y modelado de datos aplicando limpieza, transformación y análisis de información para generar insights claros. Altamente apasionado por la tecnología y el aprendizaje continuo. Busco iniciar mi trayectoria profesional en roles de soporte de BI, analista de reportes, analista de calidad de datos, o áreas afines.
