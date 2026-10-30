@@ -19,7 +19,8 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
      
 ## 🛠️ Habilidades Técnicas
 
-<img width="24" height="24" alt="limpieza-de-datos" src="https://github.com/user-attachments/assets/94d417ce-82dd-420f-9c9b-d34af6b2eced" /> Limpieza y depuración de datos
+* <img src="https://github.com/user-attachments/assets/94d417ce-82dd-420f-9c9b-d34af6b2eced" /> Limpieza y depuración de datos
+
 
 
 #### Análisis y Visualización de Datos
