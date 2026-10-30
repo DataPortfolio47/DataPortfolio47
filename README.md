@@ -26,7 +26,8 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
 - Visualización de datos
 
 
-#### 🛠️ Herramientas
+## 🛠️ Herramientas
+
 <p>
     <img src="https://img.shields.io/badge/SQL-Intermedio-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
      <p>
