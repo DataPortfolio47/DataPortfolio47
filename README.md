@@ -25,6 +25,7 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
 - Modelado de datos
 - Visualización de datos
 
+<img width="16" height="16" alt="reparando" src="https://github.com/user-attachments/assets/7629543b-7439-4b00-afbd-92add88e1601" />
 
 #### Análisis y Visualización de Datos
 <p>
