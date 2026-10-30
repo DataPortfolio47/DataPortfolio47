@@ -30,6 +30,6 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
 
 <p><img src="https://img.shields.io/badge/Excel-Avanzado-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge"><p>
 
-## [🏆 Visita mi sitio web de portafolio completo](https://your-username.github.io/)
+### [🏆 Visita mi sitio web de portafolio completo](https://your-username.github.io/)
 
  
