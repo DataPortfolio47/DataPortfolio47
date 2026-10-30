@@ -17,7 +17,7 @@
 Ingeniero en Sistemas y Computación con experiencia práctica en el análisis de datos mediante Excel avanzado, SQL y Power BI. He desarrollado proyectos de visualización y modelado de datos aplicando limpieza, transformación y análisis de información para generar insights claros. Altamente apasionado por la tecnología y el aprendizaje continuo. Busco iniciar mi trayectoria profesional en roles de soporte de BI, analista de reportes, analista de calidad de datos, o áreas afines.
 
      
-## 🛠️ Habilidades Técnicas
+## 🧠 Habilidades Técnicas
 
 - Limpieza y depuración de datos
 - ETL (extracción, transformación y carga de datos)
@@ -25,9 +25,8 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
 - Modelado de datos
 - Visualización de datos
 
-<img width="16" height="16" alt="reparando" src="https://github.com/user-attachments/assets/7629543b-7439-4b00-afbd-92add88e1601" />
 
-#### Análisis y Visualización de Datos
+#### 🛠️ Herramientas
 <p>
     <img src="https://img.shields.io/badge/SQL-Intermedio-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL Skill Badge">
      <p>
