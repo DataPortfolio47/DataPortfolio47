@@ -31,9 +31,4 @@ Ingeniero en Sistemas y Computación con experiencia práctica en el análisis d
   <img src="https://img.shields.io/badge/Excel-Avanzado-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel Skill Badge">
   </p>
 
-#### Programming & Automation
-<p>
-  <img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=flat&logo=python&logoColor=white" alt="Python Skill Badge">
-  <img src="https://img.shields.io/badge/R-Beginner-276DC3?style=flat&logo=r&logoColor=white" alt="R Skill Badge">
-</p>
 
